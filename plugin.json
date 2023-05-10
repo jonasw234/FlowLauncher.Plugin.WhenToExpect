@@ -6,7 +6,7 @@
     "Author": "Jonas A. Wendorf",
     "Version": "1.0.0",
     "Language": "python",
-    "Website": "https://github.com/jonasw234",
+    "Website": "https://github.com/jonasw234/FlowLauncher.Plugin.WhenToExpect",
     "IcoPath": "icon\\expect.png",
     "ExecuteFileName": "when_to_expect.py"
 }
